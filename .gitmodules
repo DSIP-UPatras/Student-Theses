@@ -1,0 +1,3 @@
+[submodule "sEMG-based-gesture-recognition-mgeorgoula"]
+	path = sEMG-based-gesture-recognition-mgeorgoula
+	url = https://github.com/DSIP-UPatras/sEMG-based-gesture-recognition-mgeorgoula
